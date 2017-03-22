@@ -9,7 +9,7 @@
 
 >The original author of this theme is  [Huxpro](https://github.com/Huxpro),Thanks for his talent.
 
-**[View my blog Here →](daihanlin.cn)**
+
 
 
 If you wanna use this theme, you can use the following steps：
